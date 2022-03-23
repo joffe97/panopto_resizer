@@ -1,0 +1,21 @@
+{
+  "manifest_version": 2,
+  "name": "Panopto Resizer",
+  "version": "1.0",
+
+  "description": "Adds a resizer slider to Panopto videos.",
+
+  "icons": {
+    "32": "icons/32.png",
+    "48": "icons/48.png"
+  },
+
+  "content_scripts": [
+    {
+      "matches": ["*://*.panopto.eu/Panopto/Pages/Viewer.aspx?id=*"],
+      "js": ["main.js"],
+      "run_at": "document_idle"
+    }
+  ]
+}
+
