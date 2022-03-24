@@ -6,7 +6,7 @@ Panopto Resizer is an extension made for the panopto video streaming service, th
 ### Installation on Firefox (firefox addon)
 https://addons.mozilla.org/en-US/firefox/addon/panopto-resizer/
 
-### Installation on Google Chrome (unpacket extension)
+### Installation on Google Chrome (unpacked extension)
 https://stackoverflow.com/questions/24577024/install-chrome-extension-form-outside-the-chrome-web-store
 
 ### How to
